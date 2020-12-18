@@ -14,7 +14,7 @@ In addition, it is good to have an editor to work with the code as [VSCode](http
 ```bash
 
 # Clone this repository
-$ git clone <https://github.com/matheusleal-code/WEB_CRAWLER-NODEJS_CHEERIO_AXIOS.git>
+$ git clone <https://github.com/matheusleal-code/web_crawler-nodejs_cheerio_axios.git>
 
 # Access the project folder in the / cmd terminal
 $ cd web_crawler-nodejs_cheerio_axios
