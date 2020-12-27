@@ -3,7 +3,7 @@
 <h4 align="center"> 
 	   Project Completed 
 </h4>
-# Prerequisite
+### Prerequisite
 
 Before you begin, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
